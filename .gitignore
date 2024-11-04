@@ -1,1 +1,9 @@
-//test
+# Java class file 
+*.class
+
+# MacOS file
+.DS_Store
+
+# IntelliJ IDEA specific files 
+.idea/
+*.iml
