@@ -9,25 +9,27 @@ The purpose of this project is to be a simple sample project for an exercise she
 ## Installation 
 
 To install this project either clone the repository or download all files as a .zip file.
+In order to clone the repository make sure git is installed. 
 To clone the repository navigate to the desired folder and use the git clone command with the following link:
 https: https://github.com/mtheoba2/sq_ex4_mt.git
 
-Make sure you have Java and Junit installed when running any code of the project
+Make sure you have Java and Junit installed when running any code of the project. 
+Help to install java: https://www.java.com/en/download/help/download_options.html
+Help to install git: https://github.com/git-guides/install-git
 
 ## Usage 
 
 #### Stack class
 The Stack class allows you to create a stack of integers with a maximum specified size. Here are the primary methods:
-push: adds an integer element to the top of the stack
-pop: removes and returns the top element 
-size: returns the size of the stack
-isEmpty: returns true if empty, false otherwise
-top: returns the top element but doesn't remove it
+push(): adds an integer element to the top of the stack
+pop(): removes and returns the top element 
+size(): returns the size of the stack
+isEmpty(): returns true if empty, false otherwise
+top(): returns the top element but doesn't remove it
 
 #### MyMaths class
 
-The MyMaths class computes the greatest common divisor between two 
-
+The MyMaths class computes the greatest common divisor between two integer numbers that are input of the gcd() method.
 
 
 ## Contributions
