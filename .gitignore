@@ -5,5 +5,12 @@
 .DS_Store
 
 # IntelliJ IDEA specific files 
+out/
 .idea/
+.idea_modules/
 *.iml
+
+
+
+# Log files
+*.log
