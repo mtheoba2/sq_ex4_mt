@@ -10,7 +10,10 @@ out/
 .idea_modules/
 *.iml
 
+#Build directories 
+/bin/
+/target/
 
-
-# Log files
+# Log and temp files
 *.log
+*.tmp
