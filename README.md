@@ -2,9 +2,9 @@
 
 ## Description
 
-This project contains a simple implementation of a stack using java as well as another java class that includes a greatest common divisor method.
+This project contains a simple implementation of a stack using java as well as another java class that includes a method that computes the greatest common divisor between two integers.
 Two test classes with unit tests are also included
-The purpose of this project is to be a simple sample project for an exercise sheet
+The purpose of this project is to be a simple sample project for an exercise sheet in the course "Softwarequalität"
 
 ## Installation 
 
@@ -22,15 +22,18 @@ Help to install git: https://github.com/git-guides/install-git
 #### Stack class
 The Stack class allows you to create a stack of integers with a maximum specified size. Here are the primary methods:
 push(): adds an integer element to the top of the stack
-pop(): removes and returns the top element 
-size(): returns the size of the stack
-isEmpty(): returns true if empty, false otherwise
-top(): returns the top element but doesn't remove it
+pop(): removes and returns the top element as an integer
+size(): returns the size of the stack as an integer
+isEmpty(): returns boolean true if empty, false otherwise
+top(): returns the top element as an integer but doesn't remove it
 
 #### MyMaths class
 
-The MyMaths class computes the greatest common divisor between two integer numbers that are input of the gcd() method.
+The MyMaths class computes the greatest common divisor between two integer numbers that are input of the gcd() method. The output is an integer.
 
+## Citation 
+
+In the unlikely case that you want to cite this repository please refer to the APA citation format
 
 ## Contributions
 
